@@ -1,4 +1,4 @@
-gtk-titlebar-hide-when-maximized = true
+gtk-titlebar = false
 
 background = black
 
