@@ -1,0 +1,14 @@
+gtk-titlebar-hide-when-maximized = true
+
+background = black
+
+alpha-blending = linear
+
+window-padding-x = 0
+window-padding-y = 0
+window-padding-balance = false
+window-padding-color = extend-always
+
+font-family = "JetBrainsMono Nerd Font"
+font-style = SemiBold
+font-size = 11
