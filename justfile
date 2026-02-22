@@ -13,8 +13,7 @@ install: install-dependencies config
 
 config:
   mkdir -p "{{home_dir()}}/.config/ghostty"
-  stow -t "{{home_dir()}}/.config/ghostty" config
-  dconf load / < gnome/terminal.conf
+  stow -t "{{home_dir()}}/.config/ghostty" .
 
 unset-config:
-  stow -D -t "{{home_dir()}}/.config/ghostty" config
+  stow -D -t "{{home_dir()}}/.config/ghostty" .
