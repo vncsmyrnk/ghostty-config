@@ -6,6 +6,8 @@ alpha-blending = linear
 
 mouse-hide-while-typing = true
 
+adjust-cursor-thickness = 12
+
 window-padding-x = 0
 window-padding-y = 0
 window-padding-balance = false
