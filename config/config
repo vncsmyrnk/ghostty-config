@@ -4,6 +4,8 @@ background = black
 
 alpha-blending = linear
 
+mouse-hide-while-typing = true
+
 window-padding-x = 0
 window-padding-y = 0
 window-padding-balance = false
