@@ -1,4 +1,5 @@
 gtk-titlebar = false
+window-decoration = none
 
 background = black
 
